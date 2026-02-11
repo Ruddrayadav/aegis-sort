@@ -103,7 +103,7 @@ GEMINI_MODEL = "gemini-2.0-flash"
 
 ## 🔒 Privacy & Security
 
-- **No full files sent to API:** Only the first 2000 characters are sent for analysis
+- **No full files sent to API:** Only the first 40 characters are sent for analysis
 - **No data logging:** Files are processed locally and not stored
 - **Reversible operations:** Dry run mode lets you review all changes first
 - **API key safety:** Use `.env` files, never commit your API key
