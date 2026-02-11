@@ -30,7 +30,7 @@ Unlike traditional scripts that sort by file extension (e.g., putting all `.pdf`
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/ai-file-organizer.git](https://github.com/YOUR_USERNAME/ai-file-organizer.git)
+git clone [https://github.com/ruddrayadav/ai-file-organizer.git](https://github.com/ruddrayadav/ai-file-organizer.git)
 cd ai-file-organizer )
 
 # Windows
